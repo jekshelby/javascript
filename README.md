@@ -13,6 +13,9 @@ Materi Javascript DOM
 ```bash
 https://www.codepolitan.com/course/intro/belajar-javascript-dom/
 ```
+```bash
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+```
 
 Materi AJAX dan API
 ```bash
