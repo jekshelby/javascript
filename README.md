@@ -6,7 +6,7 @@ Repositori ini dibuat untuk menampung kode-kode JavaScript yang saya pelajari se
 
 Materi Javascript Dasar
 ```bash
-https://www.codepolitan.com/course/intro/kelas-javascript/
+https://www.youtube.com/watch?v=SDROba_M42g&t=5332s&pp=ygUSYmVsYWphciBqYXZhc2NyaXB0
 ```
 
 Materi Javascript DOM
